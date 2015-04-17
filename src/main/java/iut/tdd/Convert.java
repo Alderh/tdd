@@ -50,8 +50,12 @@ public class Convert {
 			return "dix-huit";
 		case "19":
 			return "dix-neuf";
+		case "20" : 
+			return "vingt";
 
 		}
+		
+		
 		return null;
 	}
 
